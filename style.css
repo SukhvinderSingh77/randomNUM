@@ -50,6 +50,7 @@ h1, h2 {
 .box {
     height: 200px;
     width: 80vw;
+    margin: 20px auto;
     border: 5px solid yellow;
     background-color: rebeccapurple;
     color: wheat;
