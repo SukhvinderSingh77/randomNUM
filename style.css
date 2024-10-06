@@ -48,7 +48,7 @@ h1, h2 {
 }
 
 .box {
-    height: 200px;
+    height: 20vh;
     width: 80vw;
     margin: 20px auto;
     border: 5px solid yellow;
